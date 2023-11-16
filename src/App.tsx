@@ -6,4 +6,3 @@ export default function App() {
   )
 }
 
-// https://github.com/majidali129/task-management-app.git
